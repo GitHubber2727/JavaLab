@@ -1,0 +1,20 @@
+body {
+  background-color: rgba(190, 217, 249, 1);
+}
+
+button {
+  background-color: teal;
+  color: rgba(190, 217, 249, 1);
+
+  div{
+    display:block;
+    text-align: center;
+  }
+  #first_page {
+    display: contents;
+  }
+  
+  #second_page {
+    border: 5px solid green;
+    display: none;
+  }
